@@ -1,5 +1,5 @@
 {
-    "name": "virtua/annotations",
+    "name": "virtua/php-annotations",
     "type": "library",
     "description": "Source-code annotations for PHP",
     "keywords": ["annotations", "framework"],
